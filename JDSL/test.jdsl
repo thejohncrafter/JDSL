@@ -1,0 +1,16 @@
+
+addvar mustDo (equals (equals hgt ule) false)
+
+if %mustDo%
+	
+	echo On est dans la structure !
+	
+end
+
+if (equals %mustDo% false)
+	
+	echo On ne doit pas faire la structure !
+	
+end
+
+echo on est hors de la structure !
