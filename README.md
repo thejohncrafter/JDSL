@@ -2,7 +2,13 @@ JDSL
 ====
 
 JDSL est un outil de script créé en Java spécialement pour l'écriture de DSL.
-Des tutoriaux seront bientôt disponibles. Et les traductions anglaises restent à améliorer...
+Je suis dédolé pour les mauvaises traductions en Anglais...
 
 JDSL is a script tool created in Java specially for DSL writing.
-Tutorials will soon be available. And english translations needs to be improved...
+I'm sorry for the bad English translations...
+
+Note :
+
+Ce projet a été abandonné, mais vous pouvez quand même l'utiliser si vois voulez ;) !
+
+This project has been abandoned, but you can us it fi you want ;) !
