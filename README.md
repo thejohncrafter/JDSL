@@ -11,4 +11,4 @@ Note :
 
 Ce projet a été abandonné, mais vous pouvez quand même l'utiliser si vois voulez ;) !
 
-This project has been abandoned, but you can us it fi you want ;) !
+This project has been abandoned, but you can us it if you want ;) !
