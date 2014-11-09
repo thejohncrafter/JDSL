@@ -9,6 +9,6 @@ I'm sorry for the bad English translations...
 
 Note :
 
-Ce projet a été abandonné, mais vous pouvez quand même l'utiliser si vois voulez ;) !
+Ce projet a été abandonné, mais vous pouvez quand même l'utiliser si vous voulez ;) !
 
 This project has been abandoned, but you can us it if you want ;) !
